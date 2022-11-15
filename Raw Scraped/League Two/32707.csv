@@ -1,0 +1,31 @@
+,rank,team_name,GP,W,D,L,GF,GA,P,team_n
+0,1,Bristol Rovers,46,25,14,7,66,34,89,30
+1,2,Shrewsbury Town,46,26,10,10,65,40,88,30
+2,3,Bristol Rovers,46,25,10,11,58,38,85,30
+3,4,Lincoln City,46,25,9,12,76,58,84,30
+4,5,Shrewsbury Town,46,21,11,14,70,59,74,30
+5,6,MK Dons,46,20,12,14,49,42,72,30
+6,7,Walsall,46,18,17,11,68,46,71,30
+7,8,Hartlepool United,46,21,8,17,65,54,71,30
+8,9,Swindon Town,46,18,12,16,70,50,66,30
+9,10,MK Dons,46,18,11,17,70,61,65,30
+10,11,Lincoln City,46,17,14,15,52,56,65,30
+11,12,Bristol Rovers,46,16,14,16,52,47,62,30
+12,13,Shrewsbury Town,46,16,14,16,55,53,62,30
+13,14,Stockport County,46,16,11,19,55,70,59,30
+14,15,Rochdale,46,17,8,21,57,73,59,30
+15,16,Peterborough United,46,14,13,19,45,53,55,30
+16,17,Darlington,46,14,12,20,58,63,54,30
+17,18,Wycombe Wanderers,46,13,14,19,40,48,53,30
+18,19,Notts County,46,13,12,21,43,65,51,30
+19,20,Barnet,46,13,11,22,70,81,50,30
+20,21,Grimsby Town,46,13,11,22,46,61,50,30
+21,22,Hereford,46,12,12,22,55,77,48,30
+22,23,Mansfield Town,46,12,10,24,51,80,46,30
+23,24,Chester City,46,7,14,25,36,63,35,30
+24,25,Wrexham,,,,,,,,30
+25,26,Accrington Stanley,,,,,,,,30
+26,27,Bury,,,,,,,,30
+27,28,Macclesfield Town,,,,,,,,30
+28,29,Boston United,,,,,,,,30
+29,30,Torquay United,,,,,,,,30

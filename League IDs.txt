@@ -1,0 +1,24 @@
+La Liga			5
+La Liga 2			113
+Premier League		4
+Championship		114
+League One			200
+League Two			201
+Eredivisie			12
+Zwedivisie			215
+Ligue 2			155
+Belgian			15
+2. Belgian			271
+Brasileirão			51
+
+Austrian Bundesliga	14
+Austrian 2.Bundesliga	263
+Serie A			10
+Serie B			95
+Bundesliga			11
+2. Bundesliga		211
+Ligue 1			13
+National One		677
+Primeira Liga		3
+Segunda Liga		42
+Brasileiro Série B	154

@@ -1,0 +1,31 @@
+,rank,team_name,GP,W,D,L,GF,GA,P,team_n
+0,1,Doncaster Rovers,46,27,11,8,82,42,92,30
+1,2,Leeds United,46,22,16,8,64,32,82,30
+2,3,Southend United,46,23,11,12,65,41,80,30
+3,4,Doncaster Rovers,46,23,11,12,64,46,80,30
+4,5,Leeds United,46,27,10,9,72,38,76,30
+5,6,Carlisle United,46,22,10,14,70,55,76,30
+6,7,Swansea City,46,19,12,15,58,50,69,30
+7,8,Nottingham Forest,46,18,13,15,58,46,67,30
+8,9,Doncaster Rovers,46,17,15,14,60,55,66,30
+9,10,Carlisle United,46,20,6,20,50,62,66,30
+10,11,Leeds United,46,18,11,17,52,47,65,30
+11,12,Southend United,46,16,16,14,52,46,64,30
+12,13,Brighton & Hove Albion,46,16,13,17,63,56,61,30
+13,14,Oldham Athletic,46,16,12,18,49,63,60,30
+14,15,Northampton Town,46,17,7,22,62,72,58,30
+15,16,Huddersfield Town,46,15,9,22,63,66,54,30
+16,17,Tranmere Rovers,46,12,17,17,45,53,53,30
+17,18,Walsall,46,14,10,22,45,60,52,30
+18,19,Swindon Town,46,14,10,22,38,59,52,30
+19,20,Leyton Orient,46,13,12,21,42,64,51,30
+20,21,AFC Bournemouth,46,12,14,20,47,65,50,30
+21,22,Hartlepool United,46,11,13,22,44,73,46,30
+22,23,Bristol Rovers,46,11,10,25,43,63,43,30
+23,24,Millwall,46,9,11,26,47,81,38,30
+24,25,Yeovil Town,,,,,,,,30
+25,26,Cheltenham Town,,,,,,,,30
+26,27,Crewe Alexandra,,,,,,,,30
+27,28,Gillingham,,,,,,,,30
+28,29,Luton Town,,,,,,,,30
+29,30,Port Vale,,,,,,,,30
