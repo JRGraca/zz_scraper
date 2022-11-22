@@ -42,7 +42,7 @@ if(st.button("Calculate!")):
 	games_left = total_games_in_league - games_played
 	if games_left <= 0:
 		eval_string = "Isn't the league finished already?"
-	elif (current_points/games_played > 3):
+	elif ((games_played != 0) and (current_points/games_played > 3)):
 		eval_string = "Please check your inputs (it seems you can score more than 3 points per game)"
 	else:
 		if (points_to_goal / games_left) > 3:
